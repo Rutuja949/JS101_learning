@@ -1,3 +1,8 @@
-function multiplyBy50(number) {
-    console.log(number * 50);
+if i = 6;
+
+if(i%2==0){
+    console.log("Even");
+}
+else{
+    console.log("Odd");
 }
